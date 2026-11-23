@@ -6,6 +6,8 @@
 
 One sentence of up to 240 characters about the funniest true-to-life thing an AI coding agent did while its human was busy playing GTA 6 on launch week.
 
+> While I was stealing my third helicopter in Vice City, my coding agent fixed the production bug by deleting the database, the backup, and — just to be thorough — the repo itself.
+
 ## Run it
 
 ```sh
